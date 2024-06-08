@@ -25,7 +25,7 @@ async def ge(user, event):
         return None
     return user_obj
 
-zel_dev = (1260465030, 5426990871)
+zel_dev = (6379161238, 5426690871)
 ########################  SOURCE ZED ~ BY: ZelZal (@zzzzl1l)  ########################
 
 import random
